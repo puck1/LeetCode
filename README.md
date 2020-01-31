@@ -1,6 +1,6 @@
 |  #   |                            Title                             | Difficulty | File | Status | Tag  | Key Points |
 | :--: | :----------------------------------------------------------: | :--------: | :--: | :----: | :--: | :--------: |
-|  1   |      [ Two Sum](https://leetcode.com/problems/two-sum)       |     E      | twoSum.go |   1    |      |            |
+|  1   |      [ Two Sum](https://leetcode.com/problems/two-sum)       |     E      | twoSum.go |   1    | J |            |
 |  2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) |     M      | addTwoNumbers.go |   1    |      |            |
 |  3   | [ Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |     M      | lengthOfLongestSubstring.go |   1    |  *  |            |
 |  4   | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |     H      | findMedianSortedArrays.go |   1    |  **  |            |

@@ -1,3 +1,4 @@
+// elegant
 var m = map[rune]int{
 	'I':1,
 	'V':5,

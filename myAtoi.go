@@ -29,7 +29,7 @@ func myAtoi(str string) int {
 				d := int(str[i] - 48)
 				if !isNeg {
 					max := math.MaxInt32
-					if ans > max/10 || (ans == max/10 && d > 7) {
+					if ans > max/10 || (ans == max/10 && d >= 7) {
 						ans = max
 						break
 					} else {
@@ -37,7 +37,7 @@ func myAtoi(str string) int {
 					}
 				} else {
 					min := math.MinInt32
-					if ans < min/10 || (ans == min/10 && d > 8) {
+					if ans < min/10 || (ans == min/10 && d >= 8) {
 						ans = min
 						break
 					} else {

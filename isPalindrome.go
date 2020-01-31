@@ -36,8 +36,8 @@ func isPalindrome(x int) bool {
     return true
 }
 
-// judge (reversed x) == x ? time O(n), space O(1)
-// if reversed x exceed max int , go wrong *
+// judge if (reversed x) == x ? time O(n), space O(1) *
+// will be incorrect if reversed x exceeds max int
 func isPalindrome(x int) bool {
 	if x < 0 {
 		return false

@@ -14,8 +14,8 @@
 |  12  | [Integer to Roman](https://leetcode.com/problems/integer-to-roman) |     M      |        intToRoman.go        |   1    |      |            |
 |  13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) |     E      |        romanToInt.go        |   1    |      |            |
 |  14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) |     E      |   longestCommonPrefix.go    |   1    |  | 208.Trie |
-|  15  |                                                              |            |                             |        |      |            |
-|  16  |                                                              |            |                             |        |      |            |
+|  15  | [3Sum](https://leetcode.com/problems/3sum) | M | threeSum.go | 1 | * |            |
+|  16  | [3Sum Closest](https://leetcode.com/problems/3sum-closest) | M | threeSumClosest.go | 1 |      |            |
 |  17  |                                                              |            |                             |        |      |            |
 |  18  |                                                              |            |                             |        |      |  |
 |  ...  |                                                              |            |                             |        |      |            |

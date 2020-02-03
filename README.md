@@ -16,8 +16,20 @@
 |  14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) |     E      |   longestCommonPrefix.go    |   1    |  | 208.Trie |
 |  15  | [3Sum](https://leetcode.com/problems/3sum) | M | threeSum.go | 1 | * |            |
 |  16  | [3Sum Closest](https://leetcode.com/problems/3sum-closest) | M | threeSumClosest.go | 1 |      |            |
-|  17  |                                                              |            |                             |        |      |            |
-|  18  |                                                              |            |                             |        |      |  |
+|  17  | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | M | letterCombinations.go | 1 |      | Backtrack |
+|  18  | [4Sum](https://leetcode.com/problems/4sum) | M | fourSum.go | 1 | * |  |
+|  19  |                                                              |            |                             |        |      |            |
+|  20  |                                                              |            |                             |        |      |            |
+|  21  |                                                              |            |                             |        |      |            |
+|  22  |                                                              |            |                             |        |      |            |
+|  23  |                                                              |            |                             |        |      |            |
+|  24  |                                                              |            |                             |        |      |            |
+|  25  |                                                              |            |                             |        |      |            |
+|  26  |                                                              |            |                             |        |      |            |
+|  27  |                                                              |            |                             |        |      |            |
+|  28  |                                                              |            |                             |        |      |            |
+|  29  |                                                              |            |                             |        |      |            |
+|  30  |                                                              |            |                             |        |      |            |
 |  ...  |                                                              |            |                             |        |      |            |
 |  208  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | M | trie.go | 1 |      |            |
 

@@ -1,3 +1,4 @@
+// backtrack/dfs
 func generateParenthesis(n int) []string {
 	ans := make([]string, 0, 2*n)
 	if n != 0 {
@@ -5,7 +6,6 @@ func generateParenthesis(n int) []string {
 	}
 	return ans
 }
-
 func helpGenerate(s string, count int, n int, ans *[]string) {
 	// count: the number of '(' unmatched in string s
 	// n: the number of '(' unmatched in total
@@ -22,7 +22,7 @@ func helpGenerate(s string, count int, n int, ans *[]string) {
 	}
 }
 
-// closure Number *
+// closure number (what is that shit?) *
 func generateParenthesis(n int) []string {
 	if n == 0 {
 		return []string{""}		// must return "" but empty array

@@ -23,7 +23,7 @@
 |  21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | E | mergeTwoLists.go | 1 |      |            |
 |  22  | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | M | generateParenthesis.go | 1 |  | backtrack |
 |  23  | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | H | mergeKLists.go | 1 |      | loserTree heap divide&conquer |
-|  24  |                                                              |            |                             |        |      |            |
+|  24  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | M | swapPairs.go | 1 |      |            |
 |  25  |                                                              |            |                             |        |      |            |
 |  26  |                                                              |            |                             |        |      |            |
 |  27  |                                                              |            |                             |        |      |            |

@@ -83,7 +83,7 @@ type Error struct {
 }
 
 func (err *Error) Error() string {
-	return fmt.Sprintf( "pop error %v: " + err.errMsg, err.errCode)
+	return fmt.Sprintf( "stack error %v: " + err.errMsg, err.errCode)
 }
 
 func newError(code int, msg string) *Error {
@@ -95,7 +95,7 @@ func isValid(s string) bool {
 	for i := range s {
 		switch s[i] == ')' || s[i] == ']' || s[i] == '}' {
 		case true:
-			if ch, err := stack.peek(); ch == excepted[s[i]] && err == nil {
+			if ch, err := stack.peek(); err == nil && ch == excepted[s[i]] {
 				_, _ = stack.pop()
 			} else {
 				return false

@@ -22,7 +22,7 @@
 |  20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | E | isValid.go | 1 |      | stack |
 |  21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | E | mergeTwoLists.go | 1 |      |            |
 |  22  | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | M | generateParenthesis.go | 1 |  | backtrack |
-|  23  |                                                              |            |                             |        |      |            |
+|  23  | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | H | mergeKLists.go | 1 |      |            |
 |  24  |                                                              |            |                             |        |      |            |
 |  25  |                                                              |            |                             |        |      |            |
 |  26  |                                                              |            |                             |        |      |            |

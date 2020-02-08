@@ -24,7 +24,7 @@
 |  22  | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | M | generateParenthesis.go | 1 |  | backtrack |
 |  23  | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | H | mergeKLists.go | 1 |      | loserTree heap divide&conquer |
 |  24  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | M | swapPairs.go | 1 |      |            |
-|  25  |                                                              |            |                             |        |      |            |
+|  25  | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | H | reverseKGroup.go | 1 |      | Insert at head recursion |
 |  26  |                                                              |            |                             |        |      |            |
 |  27  |                                                              |            |                             |        |      |            |
 |  28  |                                                              |            |                             |        |      |            |

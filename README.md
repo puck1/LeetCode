@@ -22,12 +22,12 @@
 |  20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | E | isValid.go | 1 |      | stack |
 |  21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | E | mergeTwoLists.go | 1 |      |            |
 |  22  | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | M | generateParenthesis.go | 1 |  | backtrack |
-|  23  | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | H | mergeKLists.go | 1 |      | loserTree heap divide&conquer |
+|  23  | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | H | mergeKLists.go | 1 | * | loserTree heap divide&conquer |
 |  24  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | M | swapPairs.go | 1 |      |            |
 |  25  | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | H | reverseKGroup.go | 1 |      | Insert at head recursion |
-|  26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | E | removeDuplicates.go | 1 |      |            |
-|  27  |                                                              |            |                             |        |      |            |
-|  28  |                                                              |            |                             |        |      |            |
+|  26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | E | removeDuplicates.go | 1 |      |  |
+|  27  | [Remove Element](https://leetcode.com/problems/remove-element) | E | removeElement.go | 1 | * | 2pointers |
+|  28  | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | E | strStr.go | 1 | * | pattern            (to do) |
 |  29  |                                                              |            |                             |        |      |            |
 |  30  |                                                              |            |                             |        |      |            |
 |  ...  |                                                              |            |                             |        |      |            |

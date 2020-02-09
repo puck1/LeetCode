@@ -135,6 +135,7 @@ func adjust(i int) {						// top-down adjust heap
 	// l = merge2Lists(l1, l2)
 
 	// the following two non-recursive methods are fast
+	// increase interval *
 	for interval := 1; interval < k; interval <<= 1 {
 		for i := 0; i < k - interval; i += interval<<1 {
 			if i + interval < k {

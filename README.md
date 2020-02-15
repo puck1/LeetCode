@@ -28,7 +28,7 @@
 |  26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | E | removeDuplicates.go | 1 |      |  |
 |  27  | [Remove Element](https://leetcode.com/problems/remove-element) | E | removeElement.go | 1 | * | 2pointers |
 |  28  | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | E | strStr.go | 1 | * | pattern            (to do) |
-|  29  |                                                              |            |                             |        |      |            |
+|  29  | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | E | divide.go | 1 | * | bit-manipulations |
 |  30  |                                                              |            |                             |        |      |            |
 |  ...  |                                                              |            |                             |        |      |            |
 |  208  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | M | trie.go | 1 |      |            |

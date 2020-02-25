@@ -29,6 +29,18 @@
 |  27  | [Remove Element](https://leetcode.com/problems/remove-element) | E | removeElement.go | 1 | * | 2pointers |
 |  28  | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | E | strStr.go | 1 | * | pattern            (to do) |
 |  29  | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | E | divide.go | 1 | * | bit-manipulations |
-|  30  |                                                              |            |                             |        |      |            |
-|  ...  |                                                              |            |                             |        |      |            |
+|  30  | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words) | H | findSubstring.go |        |      |            |
+|  31  | [Next Permutation](https://leetcode.com/problems/next-permutation) | M | nextPermutation.go | 1 |      |            |
+|  32  |                                                              |            |                             |        |      |                               |
+|  33  |                                                              |            |                             |        |      |                               |
+|  34  |                                                              |            |                             |        |      |            |
+|  35  |                                                              |            |                             |        |      |            |
+|      |                                                              |            |                             |        |      |                               |
+|      |                                                              |            |                             |        |      |                               |
+|      |                                                              |            |                             |        |      |                               |
+|      |                                                              |            |                             |        |      |                               |
+|      |                                                              |            |                             |        |      |                               |
+|      |                                                              |            |                             |        |      |                               |
+|      |                                                              |            |                             |        |      |                               |
+|      |                                                              |            |                             |        |      |            |
 |  208  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | M | trie.go | 1 |      |            |

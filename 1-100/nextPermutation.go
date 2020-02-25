@@ -6,7 +6,7 @@ func nextPermutation(nums []int)  {
 		if nums[i-1] < nums[i] {
 			out, in = i-1, i
 		} else if in!=-1 && nums[i]>nums[out] && nums[i]<=nums[in] {
-			// find the smallest number greater than nums[out] and its index should be closes to end
+			// find the smallest number greater than nums[out] and its index should be closer to end
 			in = i
 		}
 	}
